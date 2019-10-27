@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb0fa67b9566b1422b682c5bdd288934",
+    "revision": "b90427e4a1811eda4b97314706be9b0d",
     "url": "/Cinpefy/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Cinpefy/static/js/2.25880bb5.chunk.js"
   },
   {
-    "revision": "9368185e18b4eec31770",
-    "url": "/Cinpefy/static/js/main.b1944506.chunk.js"
+    "revision": "4096054406cc37573db2",
+    "url": "/Cinpefy/static/js/main.0b3428f3.chunk.js"
   },
   {
     "revision": "7d3ee1f1ce040f29eacd",

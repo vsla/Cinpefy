@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Cinpefy/precache-manifest.c5d5161a5e92fdc9aa76d1048a64995c.js"
+  "/Cinpefy/precache-manifest.009bc87cb90dd6eda9ea121ec4b00ebd.js"
 );
 
 self.addEventListener('message', (event) => {

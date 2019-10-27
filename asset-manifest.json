@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/Cinpefy/static/js/main.b1944506.chunk.js",
-    "main.js.map": "/Cinpefy/static/js/main.b1944506.chunk.js.map",
+    "main.js": "/Cinpefy/static/js/main.0b3428f3.chunk.js",
+    "main.js.map": "/Cinpefy/static/js/main.0b3428f3.chunk.js.map",
     "runtime-main.js": "/Cinpefy/static/js/runtime-main.f1571b89.js",
     "runtime-main.js.map": "/Cinpefy/static/js/runtime-main.f1571b89.js.map",
     "static/js/2.25880bb5.chunk.js": "/Cinpefy/static/js/2.25880bb5.chunk.js",
     "static/js/2.25880bb5.chunk.js.map": "/Cinpefy/static/js/2.25880bb5.chunk.js.map",
     "index.html": "/Cinpefy/index.html",
-    "precache-manifest.c5d5161a5e92fdc9aa76d1048a64995c.js": "/Cinpefy/precache-manifest.c5d5161a5e92fdc9aa76d1048a64995c.js",
+    "precache-manifest.009bc87cb90dd6eda9ea121ec4b00ebd.js": "/Cinpefy/precache-manifest.009bc87cb90dd6eda9ea121ec4b00ebd.js",
     "service-worker.js": "/Cinpefy/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.f1571b89.js",
     "static/js/2.25880bb5.chunk.js",
-    "static/js/main.b1944506.chunk.js"
+    "static/js/main.0b3428f3.chunk.js"
   ]
 }
