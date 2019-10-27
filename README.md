@@ -4,6 +4,8 @@ Um 'clone' do pipefy com a mesma idéia de kanban, para experimentação do reac
 
 Projeto feito com a ajuda desse [vídeo](https://www.youtube.com/watch?v=awRtgpRsdTQ) da RocketSeat.
 
+[Link para o projeto rodando](https://vsla.github.io/Cinpefy/)
+
 # Libs usadas:
 
 - [styled Components](https://www.styled-components.com/docs/basics#installation)
