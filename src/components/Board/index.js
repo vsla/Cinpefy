@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Produce from 'immer';
+import Produce from "immer";
 
 import { loadLists } from "../../services/api";
 
@@ -15,11 +15,13 @@ export default function Board() {
   const [lists, setLists] = useState(data);
 
   function move(fromList, toList, from, to) {
-    setLists(Produce(lists, draft => {
-      const dragged = draft[fromList].cards[from];
-      draft[fromList].cards.splice(from, 1);
-      draft[toList].cards.splice(to, 0, dragged)
-    }))
+    setLists(
+      Produce(lists, draft => {
+        const dragged = draft[fromList].cards[from];
+        draft[fromList].cards.splice(from, 1);
+        draft[toList].cards.splice(to, 0, dragged);
+      })
+    );
   }
 
   return (

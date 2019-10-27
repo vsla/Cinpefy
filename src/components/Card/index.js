@@ -61,11 +61,10 @@ export default function Card({ data, index, listIndex }) {
 
       // fromlist -- targetList / Which item is moving -- item where to move
       move(draggedListIndex, targetListIndex, draggedIndex, targetIndex);
-      
+
       // Bug that card dont know that has been moved
       item.index = targetIndex;
       item.listIndex = targetListIndex;
-
     }
   });
 

@@ -6,35 +6,22 @@ export function loadLists() {
       cards: [
         {
           id: 1,
-          content: "Estudar módulo 01 de NodeJS",
+          content:
+            "Bug de que quando muda o card de lista, ele não fica com os pontos lá",
           labels: ["#7159c1"],
-          user: "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png"
+          user: "https://api.adorable.io/avatars/185/abotio@adorable.io.png"
         },
         {
           id: 2,
-          content:
-            "Criar vídeo para o Youtube ensinando a recriar a interface do Pipefy",
+          content: "Trocar sem precisar passar em um card",
           labels: ["#7159c1"],
-          user: "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png"
+          user: "https://api.adorable.io/avatars/185/abotio@adorable.io.png"
         },
         {
           id: 3,
-          content: "Estudar módulo 03 de React Native",
+          content: "Trocar para uma coluna vazia",
           labels: ["#7159c1"],
-          user: "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png"
-        },
-        {
-          id: 4,
-          content:
-            'Gravar Aula "NextJS: Utilizando server-side rendering com ReactJS"',
-          labels: ["#54e1f7"],
-          user: "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png"
-        },
-        {
-          id: 5,
-          content: "Gravar testes e deploy ReactJS",
-          labels: ["#54e1f7"],
-          user: "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png"
+          user: "https://api.adorable.io/avatars/185/abotio@adorable.io.png"
         }
       ]
     },
@@ -44,9 +31,15 @@ export function loadLists() {
       cards: [
         {
           id: 6,
-          content: "Recriando clone do Pipefy",
+          content: "Com preguiça de ver como resolve",
           labels: [],
-          user: "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png"
+          user: "https://api.adorable.io/avatars/185/abotio@adorable.io.png"
+        },
+        {
+          id: 7,
+          content: "Estudando para as provas da faculdade",
+          labels: ["#7159c1"],
+          user: "https://api.adorable.io/avatars/185/abotio@adorable.io.png"
         }
       ]
     },
@@ -55,20 +48,14 @@ export function loadLists() {
       creatable: false,
       cards: [
         {
-          id: 7,
-          content: "Gravar sobre Geolocalização e mapas com React Native",
-          labels: ["#7159c1"],
-          user: "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png"
-        },
-        {
           id: 8,
-          content: "Gravar testes e deploy ReactJS",
+          content: "Temos que dormir, ein?",
           labels: ["#54e1f7"],
-          user: "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/profile.png"
+          user: "https://api.adorable.io/avatars/185/abotio@adorable.io.png"
         },
         {
           id: 9,
-          content: "Ajustes na biblioteca unform",
+          content: "Kanban da vida",
           labels: []
         }
       ]
@@ -80,18 +67,17 @@ export function loadLists() {
       cards: [
         {
           id: 10,
-          content: "Gravar aula sobre deploy e CI com React Native",
+          content: "Provas de engenharia de software",
           labels: []
         },
         {
           id: 12,
-          content: "Gravar testes e deploy ReactJS",
+          content: "Aprendido o básico de ReactJs",
           labels: ["#54e1f7"]
         },
         {
           id: 13,
-          content:
-            'Gravar Aula "Internacionalização de aplicações Node.js, ReactJS e React Native"',
+          content: "Aprendido o básico de ReactNative",
           labels: ["#7159c1"]
         }
       ]
