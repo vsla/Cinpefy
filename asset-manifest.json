@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/cinpefy/static/js/main.b1944506.chunk.js",
-    "main.js.map": "/cinpefy/static/js/main.b1944506.chunk.js.map",
-    "runtime-main.js": "/cinpefy/static/js/runtime-main.e27516ff.js",
-    "runtime-main.js.map": "/cinpefy/static/js/runtime-main.e27516ff.js.map",
-    "static/js/2.0d3b3fb7.chunk.js": "/cinpefy/static/js/2.0d3b3fb7.chunk.js",
-    "static/js/2.0d3b3fb7.chunk.js.map": "/cinpefy/static/js/2.0d3b3fb7.chunk.js.map",
-    "index.html": "/cinpefy/index.html",
-    "precache-manifest.818718b17e56b535bd0bc53d9339c686.js": "/cinpefy/precache-manifest.818718b17e56b535bd0bc53d9339c686.js",
-    "service-worker.js": "/cinpefy/service-worker.js"
+    "main.js": "/Cinpefy/static/js/main.b1944506.chunk.js",
+    "main.js.map": "/Cinpefy/static/js/main.b1944506.chunk.js.map",
+    "runtime-main.js": "/Cinpefy/static/js/runtime-main.f1571b89.js",
+    "runtime-main.js.map": "/Cinpefy/static/js/runtime-main.f1571b89.js.map",
+    "static/js/2.25880bb5.chunk.js": "/Cinpefy/static/js/2.25880bb5.chunk.js",
+    "static/js/2.25880bb5.chunk.js.map": "/Cinpefy/static/js/2.25880bb5.chunk.js.map",
+    "index.html": "/Cinpefy/index.html",
+    "precache-manifest.c5d5161a5e92fdc9aa76d1048a64995c.js": "/Cinpefy/precache-manifest.c5d5161a5e92fdc9aa76d1048a64995c.js",
+    "service-worker.js": "/Cinpefy/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.e27516ff.js",
-    "static/js/2.0d3b3fb7.chunk.js",
+    "static/js/runtime-main.f1571b89.js",
+    "static/js/2.25880bb5.chunk.js",
     "static/js/main.b1944506.chunk.js"
   ]
 }
